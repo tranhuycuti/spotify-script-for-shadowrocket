@@ -1,0 +1,5 @@
+#!name=Spotify Lyric
+#!desc=instagram: visual.thuyy
+
+[MITM]
+hostname = %APPEND% spclient.wg.spotify.com
