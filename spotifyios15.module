@@ -1,5 +1,5 @@
 #!name=Spotify(iOS 15 or higher)
-#!desc=instagram: visual.thuyy
+#!desc=instagram: fiber.thuyy
 
 [MITM]
 hostname = %APPEND% spclient.wg.spotify.com
